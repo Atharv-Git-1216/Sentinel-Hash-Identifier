@@ -1,2 +1,8 @@
+# Python Cache
 __pycache__/
 venv/
+env/
+
+# Huge Dictionary Files (DO NOT UPLOAD TO GITHUB > 100MB)
+rockyou.txt
+*.dict
